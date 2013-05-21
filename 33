@@ -1,4 +1,3 @@
-
 JAVA
 
-sudo apt-get purge openjdk*
+sudo apt-get install openjdk-7-jre
