@@ -1,2 +1,9 @@
-000 111 222 333 777
-000 222 444
+System.out.println("dddddddddddddddd");
+
+
+File >> New >> Project
+
+Java >> Java Project
+
+( New Java Project )
+Java Name = NET_Server
