@@ -27,3 +27,36 @@ http://setserial.sourceforge.net/setserial-man.html
 ##############################################################
 
 
+
+
+socat commands
+
+http://technoscie.wordpress.com/2008/10/07/some-useful-socat-commands/
+
+To get time from time server:
+socat TCP:time.nist.gov:13
+
+
+Socat and serial port over TCP/IP
+---------------------------------------------------
+http://www.lowlevel.cz/log/cats/english/Socat%20and%20serial%20port%20over%20TCP-IP.html
+---------------------------------------------------
+socat TCP-LISTEN:4000,fork /dev/ttyUSB0,raw
+nc 127.0.0.1 4000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
